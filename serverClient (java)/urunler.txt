@@ -1,0 +1,9 @@
+Ürün Adı: Telefon , Fiyat: 4500 , Stok: 10
+Ürün Adı: Telefon2 , Fiyat: 8500 , Stok: 8
+Ürün Adı: Playstation , Fiyat: 1500 , Stok: 3
+Ürün Adı: Ayakkabi , Fiyat: 1500 , Stok: 22
+Ürün Adı: Leptop , Fiyat: 9500 , Stok: 2
+Ürün Adı: Leptop2 , Fiyat: 17000 , Stok: 4
+Ürün Adı: Islemci , Fiyat: 8000 , Stok: 9
+Ürün Adı: Monitor , Fiyat: 9000 , Stok: 11
+Ürün Adı: Monitor2 , Fiyat: 13000 , Stok: 5
